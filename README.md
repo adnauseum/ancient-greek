@@ -1,3 +1,7 @@
+<center>
+<img src="https://user-images.githubusercontent.com/24446573/146459247-deb5f56c-b2b6-460d-ada1-4d3d9aef42e2.png" height="300" />
+</center>
+
 # Ancient Greek
 
 - [Kanban board for this endeavour](https://github.com/adnauseum/ancient-greek/projects/1?add_cards_query=is%3Aopen)
